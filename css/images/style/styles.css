@@ -21,20 +21,48 @@
     color: tomato;
 }
 
-#carousel {
-    padding: 5% 15%;
+.tokoh {
+    width: 110%;
+    height: 200px;
+    border-radius: 30%;
 }
 
 .carousel {
-    padding: 5% 15%;
-    background-color: grey;
+    padding: 0% 0%;
+    color: red;
+    padding-bottom: 4%;
+}
+
+.uhuy {
+    width: 100%;
+    height: 350px;
 }
 
 .carousel-img {
     width: 10%;
-    border-radius:
+    border-radius: 100%;
+    text-align: center;
 }
 
-border-radius: 50%;
+.img-carousel {
+    text-align: center;
+    width: 10%;
+    border-radius: 100%;
+}
 
+.hahihu {
+    width: 100%;
+    height: 200px;
+}
+
+#footer {
+    text-align: center;
+    padding: 50px;
+    padding-top: 80px;
+}
+
+.ih {
+    word-spacing: 15px;
+    padding-bottom: 15px;
+    size: 20cm;
 }
